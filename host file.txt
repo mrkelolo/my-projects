@@ -1,0 +1,2 @@
+C:\Users\HomePC\AppData\Local\Programs\Python\Python314\python.exe "c:/Users/HomePC/Desktop/Pyhton Projects/ai_invoice/ai_invoice.py" "x" --run-server
+http://localhost:8000/docs

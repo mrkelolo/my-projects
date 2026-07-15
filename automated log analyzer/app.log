@@ -1,0 +1,14 @@
+2024-01-15 10:00:05 INFO Application startup complete - v2.3.1
+2024-01-15 10:00:10 DEBUG Cache warmed up in 234ms - 1500 entries loaded
+2024-01-15 10:01:00 ERROR Payment processing failed: ERR_INVALID_CARD - card declined
+2024-01-15 10:01:01 ERROR Payment processing failed: ERR_INVALID_CARD - card declined
+2024-01-15 10:01:02 ERROR Payment processing failed: ERR_NETWORK - gateway timeout
+2024-01-15 10:02:00 WARNING API rate limit approaching: 80/100 requests per minute
+2024-01-15 10:03:00 INFO Background job completed - processed 500 records
+2024-01-15 10:04:00 ERROR 404 Not Found: /api/v1/missing-endpoint
+2024-01-15 10:05:00 FATAL Unhandled exception in worker thread - NullPointerException
+2024-01-15 10:06:00 INFO Scheduled task executed - daily cleanup completed
+2024-01-15 10:07:00 ERROR File upload failed: ERR_DISK_FULL - no space left on device
+2024-01-15 10:08:00 WARNING Slow query detected: 2.3s - SELECT * FROM large_table
+2024-01-15 10:09:00 DEBUG Garbage collection completed - freed 512MB
+2024-01-15 10:10:00 CRITICAL Service dependency unavailable: Redis connection lost

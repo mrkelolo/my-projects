@@ -1,0 +1,15 @@
+2024-01-15 10:00:01 INFO 192.168.1.1 Server started successfully on port 8080
+2024-01-15 10:00:15 DEBUG 192.168.1.1 Connection pool initialized with 50 connections
+2024-01-15 10:01:23 ERROR 192.168.1.45 Database connection timeout after 30s - retrying
+2024-01-15 10:01:24 ERROR 192.168.1.45 Failed to process request: ERR_DB_TIMEOUT - connection refused
+2024-01-15 10:02:00 WARNING 192.168.1.100 High memory usage detected: 85% - consider scaling
+2024-01-15 10:02:15 ERROR 10.0.0.5 Permission denied accessing /api/admin - unauthorized IP
+2024-01-15 10:03:00 INFO 192.168.1.200 User login successful - session created
+2024-01-15 10:03:45 CRITICAL 192.168.1.1 Out of memory error - shutting down worker process
+2024-01-15 10:04:00 ERROR 192.168.1.45 Connection reset by peer - client disconnected
+2024-01-15 10:05:00 INFO 192.168.1.1 Server restarted - all systems operational
+2024-01-15 10:06:00 DEBUG 192.168.1.50 Cache hit ratio: 94.5%
+2024-01-15 10:07:00 ERROR 203.0.113.50 SQL injection attempt detected - request blocked
+2024-01-15 10:08:00 WARNING 192.168.1.100 Disk space low: /var/log at 92%
+2024-01-15 10:09:00 INFO 192.168.1.200 User logout - session destroyed
+2024-01-15 10:10:00 ERROR 192.168.1.45 Database deadlock detected - transaction rolled back

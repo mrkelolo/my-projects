@@ -1,0 +1,32 @@
+2026-07-08 10:51:28,630 - INFO - ==================================================
+2026-07-08 10:51:28,630 - INFO - Starting log analysis cycle
+2026-07-08 10:51:28,631 - WARNING - Watch directory does not exist: logs
+2026-07-08 10:51:28,633 - INFO - No new files to analyze
+2026-07-08 11:05:10,799 - INFO - ==================================================
+2026-07-08 11:05:10,800 - INFO - Starting log analysis cycle
+2026-07-08 11:05:10,800 - WARNING - Watch directory does not exist: logs
+2026-07-08 11:05:10,802 - INFO - No new files to analyze
+2026-07-08 11:05:31,391 - INFO - ==================================================
+2026-07-08 11:05:31,392 - INFO - Starting log analysis cycle
+2026-07-08 11:05:31,393 - WARNING - Watch directory does not exist: logs
+2026-07-08 11:05:31,397 - INFO - No new files to analyze
+2026-07-08 11:08:41,950 - INFO - ==================================================
+2026-07-08 11:08:41,951 - INFO - Starting log analysis cycle
+2026-07-08 11:08:41,952 - INFO - Created missing watch directory: logs
+2026-07-08 11:08:41,955 - INFO - No new files to analyze
+2026-07-08 11:10:51,646 - INFO - ==================================================
+2026-07-08 11:10:51,647 - INFO - Starting log analysis cycle
+2026-07-08 11:10:51,651 - INFO - No log files in logs; falling back to c:\Users\HomePC\Desktop\Pyhton Projects\automated log analyzer
+2026-07-08 11:10:51,653 - INFO - Analyzing: c:\Users\HomePC\Desktop\Pyhton Projects\automated log analyzer\access.log
+2026-07-08 11:10:51,671 - INFO - Analyzing: c:\Users\HomePC\Desktop\Pyhton Projects\automated log analyzer\analyzer.log
+2026-07-08 11:10:51,702 - INFO - Analyzing: c:\Users\HomePC\Desktop\Pyhton Projects\automated log analyzer\app.log
+2026-07-08 11:10:51,704 - INFO - Analyzing: c:\Users\HomePC\Desktop\Pyhton Projects\automated log analyzer\server.log
+2026-07-08 11:10:51,712 - INFO - Report saved: reports\report_20260708_111051.html
+2026-07-08 11:10:51,714 - WARNING - CRITICAL: 3 file(s) exceed error threshold!
+2026-07-08 11:10:51,714 - INFO - Analyzed 4 files, 60 lines, 15 errors
+2026-07-10 07:41:15,101 - INFO - ==================================================
+2026-07-10 07:41:15,102 - INFO - Starting log analysis cycle
+2026-07-10 07:41:15,105 - INFO - No log files in logs; falling back to c:\Users\HomePC\Desktop\Pyhton Projects\automated log analyzer
+2026-07-10 07:41:15,122 - INFO - Analyzing: c:\Users\HomePC\Desktop\Pyhton Projects\automated log analyzer\analyzer.log
+2026-07-10 07:41:15,164 - INFO - Report saved: reports\report_20260710_074115.html
+2026-07-10 07:41:15,164 - INFO - Analyzed 1 files, 30 lines, 0 errors

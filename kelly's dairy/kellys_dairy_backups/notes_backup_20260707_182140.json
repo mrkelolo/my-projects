@@ -1,0 +1,30 @@
+{
+  "app": "Kelly's Dairy 🥛",
+  "version": "2.0",
+  "last_saved": "2026-07-07T18:16:53.359512",
+  "notes": [
+    {
+      "id": "805c7622",
+      "title": "what i want to buy tomorrow",
+      "content": "5 pieces of 17 pro max\n2 airpod pro\nrice and chicken\nbla bla bla",
+      "tags": [],
+      "category": "General",
+      "pinned": false,
+      "archived": false,
+      "created_at": "2026-07-07T18:16:53.320891",
+      "updated_at": "2026-07-07T18:16:53.320920"
+    },
+    {
+      "id": "2d962518",
+      "title": "things i want to be in life",
+      "content": "1:first i want to be very successful\n2:i want to make my generation proud\n3:proof everyone that does beleive me in me wrong",
+      "tags": [],
+      "category": "General",
+      "pinned": false,
+      "archived": false,
+      "created_at": "2026-07-07T18:15:40.016825",
+      "updated_at": "2026-07-07T18:15:40.016869"
+    }
+  ],
+  "tags": []
+}
